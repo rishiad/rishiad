@@ -1,5 +1,5 @@
 # Hi 👋, I'm Rishi
-I am self taught proggramer going to Adeliade Uni 2023. Right now I’m learning **Rust** and if you would like to collaborate on any projects I can reached via my discord. DistanTraveller#3521  
+I am self taught proggramer going to Adeliade Uni 2023. Right now I’m learning **Rust** and if you would like to collaborate on any projects I can be reached via my discord. DistanTraveller#3521  
 
 
 # Languages and Tools 
